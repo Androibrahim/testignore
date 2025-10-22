@@ -18,3 +18,4 @@ static bool even(int num)=> num %2 ==0 ? true : false;
 
 static bool odd(int num)=> num % 2 != 0 ? true : false;
 
+static bool test(int num) => num % 2 != 0 ? true : false;
